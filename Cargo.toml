@@ -1,0 +1,10 @@
+[package]
+name = "gideon-tax-nc"
+version = "0.1.0"
+edition = "2024"
+license = "COSL-1.0"
+repository = "https://github.com/gideonsolutions/gideon-tax-nc"
+description = "North Carolina individual income tax form computation"
+
+[dependencies]
+us-tax-brackets = "1.0.1"
